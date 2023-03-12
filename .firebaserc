@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "food-delivery-app-e4138"
-  }
+    "default": "food-delivery-app-e4138",
+    "develop": "food-delivery-app-a82b6"
+  },
+  "targets": {},
+  "etags": {}
 }
